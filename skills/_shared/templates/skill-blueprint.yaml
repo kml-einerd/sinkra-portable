@@ -1,0 +1,16 @@
+skill:
+  name:
+  entity:
+  from_stage:
+  to_stage:
+  trigger:
+  inputs: []
+  outputs: []
+  tasks: []
+  dependencies: []
+  routing_rules: []
+  gate:
+  persistence:
+  journey_log:
+  failure_modes: []
+  resume:

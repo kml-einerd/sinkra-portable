@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Mapear Processo"
+  short_description: "Reconstruir e validar a operação AS-IS"
+  default_prompt: "Use $sinkra-mapear-processo para reconstruir este processo real sem misturar melhorias no AS-IS."

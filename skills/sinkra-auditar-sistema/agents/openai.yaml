@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Auditar Sistema"
+  short_description: "Detectar drift, gaps e quebras do sistema"
+  default_prompt: "Use $sinkra-auditar-sistema para revisar este sistema e priorizar remediações sem modificá-lo."

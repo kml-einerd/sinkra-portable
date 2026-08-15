@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Elicitar Construção"
+  short_description: "Decidir e construir com controle e evidência"
+  default_prompt: "Use $sinkra-elicitar-construcao para resolver esta decisão e transformá-la em uma construção controlada."

@@ -1,0 +1,14 @@
+handoff:
+  entity:
+  current_state:
+  objective:
+  consumed_inputs: []
+  excluded_sources: []
+  produced_outputs: []
+  decisions: []
+  blockers: []
+  revalidate: []
+  next_action:
+  next_owner:
+  resume_from:
+  created_at:

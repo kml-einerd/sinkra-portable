@@ -1,0 +1,12 @@
+claim:
+  subject:
+  relation:
+  object:
+  class:
+  source:
+  location:
+  captured_at:
+  confidence:
+  scope:
+  conflicts_with: []
+  implication:

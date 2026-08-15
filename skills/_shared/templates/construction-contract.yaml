@@ -1,0 +1,16 @@
+construction:
+  id:
+  object:
+  current_state:
+  target_state:
+  scope:
+  non_goals: []
+  decisions: []
+  tasks: []
+  executors: []
+  inputs: []
+  outputs: []
+  gates: []
+  persistence:
+  failure_modes: []
+  next_consumer:

@@ -1,0 +1,16 @@
+process:
+  name:
+  scope:
+  as_is_version:
+  validated_by:
+  validated_at:
+entities: []
+lifecycles: []
+transitions: []
+tasks: []
+relations: []
+exceptions: []
+gaps: []
+conflicts: []
+evidence: []
+to_be_candidates: []

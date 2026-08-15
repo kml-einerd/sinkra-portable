@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Modelar Executores"
+  short_description: "Contratar e supervisionar executores por task"
+  default_prompt: "Use $sinkra-modelar-executores para definir executores e ondas paralelas governadas sem criar agentes soltos."

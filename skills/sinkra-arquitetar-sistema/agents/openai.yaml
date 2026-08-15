@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Arquitetar Sistema"
+  short_description: "Modelar operações e agentes no método Sínkra"
+  default_prompt: "Use $sinkra-arquitetar-sistema para transformar este projeto em um sistema Sínkra completo e auditável."

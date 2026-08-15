@@ -1,0 +1,20 @@
+system:
+  name:
+  objective:
+  method: sinkra
+  version: 0.1.0
+  status: active
+entity:
+  name:
+  lifecycle:
+  current_stage:
+active_skill:
+active_run:
+completed_tasks: []
+skipped_tasks: []
+decisions: []
+outputs: []
+blockers: []
+next_action:
+next_owner:
+updated_at:

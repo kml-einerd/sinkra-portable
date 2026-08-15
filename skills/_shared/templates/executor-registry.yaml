@@ -1,0 +1,10 @@
+executors:
+  humans: []
+  workers: []
+  agents: []
+assignments: []
+handoffs: []
+reviewers: []
+accountables: []
+gate_owners: []
+unresolved: []

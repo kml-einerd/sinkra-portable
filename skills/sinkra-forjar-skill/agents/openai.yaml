@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra — Forjar Skill"
+  short_description: "Transformar uma transição em skill orquestradora"
+  default_prompt: "Use $sinkra-forjar-skill para converter esta transição validada em uma skill portátil e testável."
