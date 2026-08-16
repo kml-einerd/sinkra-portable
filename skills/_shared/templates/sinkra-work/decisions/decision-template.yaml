@@ -1,15 +1,37 @@
 decision:
   id:
+  decision_set_id:
+  sequence:
+  total:
   status: proposed
   entity:
   question:
+  user_mastery:
   primary_authority:
-  options: []
-  recommendation:
+  options:
+    - id:
+      name:
+      path:
+      practical_consequence:
+      user_impact:
+      tradeoffs: []
+      risks: []
+      reversibility:
+      evidence: []
+      interpretation:
+  agent_recommendation:
+    option_id:
+    rationale:
   selected_option:
+    option_id:
+    custom_definition:
   rationale:
   accepted_risks: []
+  constraints: []
+  unresolved_questions: []
   evidence: []
+  sources: []
+  captured_at:
   decided_by:
   decided_at:
   ratified_by:

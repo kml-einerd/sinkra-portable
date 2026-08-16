@@ -56,3 +56,8 @@ Executar [as-is-gate.md](checklists/as-is-gate.md) antes de publicar.
 
 Mapa AS-IS, inventário de fontes, narrativa, evidência, gaps, conflitos,
 exceções, responsável, data, versão e decisões necessárias.
+
+Quando o pedido envolver nós, catálogo, Registry, deduplicação ou recombinação,
+entregar o AS-IS validado para
+[sinkra-extrair-nos](../sinkra-extrair-nos/SKILL.md). Não acionar essa composição
+em mapeamentos comuns.

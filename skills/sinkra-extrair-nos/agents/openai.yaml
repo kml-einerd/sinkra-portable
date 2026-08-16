@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sínkra - Extrair Nós"
+  short_description: "Extrai, revisa e promove nós semânticos"
+  default_prompt: "Use $sinkra-extrair-nos para transformar estes materiais ou este AS-IS em nós candidatos rastreáveis e recombináveis."

@@ -3,7 +3,7 @@ decision:
   decision_set_id:
   sequence:
   total:
-  status:
+  status: proposed
   entity:
   question:
   user_mastery:

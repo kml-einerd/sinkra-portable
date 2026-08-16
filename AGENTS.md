@@ -20,6 +20,7 @@ Agentes, Workers e Humanos são executores contratados pelas tasks.
 | Resolver decisões e transformar intenção em contrato | `sinkra-elicitar-construcao` |
 | Separar Humano, Worker e Agente | `sinkra-modelar-executores` |
 | Converter transição validada em skill | `sinkra-forjar-skill` |
+| Extrair, deduplicar e recombinar nós de um AS-IS validado | `sinkra-extrair-nos` |
 | Auditar integridade, drift e lacunas | `sinkra-auditar-sistema` |
 
 Se o host não invocar skills, ler e executar diretamente o `SKILL.md`
@@ -45,7 +46,9 @@ sinkra-work/
 ├── state.yaml
 ├── decisions/
 ├── evidence/
+├── gates/
 ├── handoffs/
+├── outputs/
 ├── registry/
 ├── runs/
 ├── journey.yaml
@@ -68,3 +71,6 @@ mudanças que dependam dela.
 Este pacote não fornece enforcement mecânico. Não alegar locks, validações ou
 gates automáticos que não foram realmente executados. Usar ferramentas nativas
 do host quando disponíveis e registrar evidência observável do resultado.
+
+`skills/` e `skills/_shared/` são normativos para operação. `materials/` é
+explicativo e segue a precedência declarada em `materials/README.md`.

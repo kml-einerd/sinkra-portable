@@ -185,7 +185,7 @@ universais. O padrão é a superfície de decisão, não o conteúdo do caso.
 
 ## Fontes
 
-- vídeo local e link registrado em `arquivos-base/synkra-skills/video-fonte.txt`;
-- `arquivos-base/synkra-skills/transcricao-pedro/transcricao-timestamped.txt`;
-- `arquivos-base/synkra-skills/transcricao-pedro/pedro-transcricao-completa.md`;
-- inspeção visual de frames em 1920×1080 nos marcos citados.
+- [transcrição completa incluída](sources/pedro-transcricao-completa.md);
+- [vídeo público](https://www.youtube.com/watch?v=ZGm8hpTviPI);
+- inspeção visual de frames em 1920×1080 nos marcos citados, realizada durante
+  a extração original; os frames brutos não são necessários em runtime.

@@ -13,6 +13,8 @@ active_run:
 completed_tasks: []
 skipped_tasks: []
 decisions: []
+evidence: []
+gates: []
 outputs: []
 blockers: []
 next_action:

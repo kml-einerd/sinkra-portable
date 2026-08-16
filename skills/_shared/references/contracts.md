@@ -85,6 +85,27 @@ Resultados: `approved`, `rejected`, `blocked`, `needs-information` ou
 nunca vira `approved`. Executor não deve autoaprovar o próprio output quando o
 risco pede autoridade separada.
 
+## Output
+
+```yaml
+output:
+  id:
+  task_id:
+  entity:
+  type:
+  path:
+  status:
+  producer:
+  version:
+  evidence: []
+  next_consumer:
+  created_at:
+```
+
+O output deve existir no destino declarado e apontar para a evidência que prova
+sua produção ou aceite. Conversa, intenção ou comando executado não substituem
+um artefato verificável.
+
 ## Handoff
 
 ```yaml
@@ -96,12 +117,16 @@ handoff:
   excluded_sources: []
   produced_outputs: []
   decisions: []
+  gates: []
+  evidence: []
   blockers: []
   revalidate: []
   next_action:
   next_owner:
   resume_from:
+  created_at:
 ```
 
 Estas projeções legíveis são os contratos portáteis. A skill preenche conteúdo,
-fontes e referências e persiste o resultado em `sinkra-work/`.
+fontes e referências e persiste decisões, gates, outputs e handoffs nas pastas
+correspondentes de `sinkra-work/`.

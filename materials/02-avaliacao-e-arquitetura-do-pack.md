@@ -1,5 +1,8 @@
 # Avaliação das Aulas 1 e 2 para reconstrução do pack Sínkra
 
+> **Status: histórico.** Diagnóstico intermediário preservado como evidência;
+> não substitui as skills e contratos atuais.
+
 > Diagnóstico v0.1 — ainda não é a especificação final do pack.
 > Fontes analisadas: notas das Aulas 1 e 2, [transcrição do vídeo](sources/pedro-transcricao-completa.md) e [análise inicial da elicitação](01-sistema-de-elicitacao-e-controle.md). As notas brutas não integram o pacote portátil porque as 72 imagens citadas não existem no acervo original; esta avaliação preserva a síntese rastreável do conteúdo consumido.
 

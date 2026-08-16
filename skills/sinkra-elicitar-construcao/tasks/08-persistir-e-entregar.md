@@ -2,8 +2,7 @@
 
 ## Executar
 
-1. Atualizar o estado governado ou bundle standalone, decisões, contrato e
-   Journey Log.
+1. Atualizar `sinkra-work/`, decisões, contrato e Journey Log.
 2. Registrar outputs, versões, fontes, correções e gate.
 3. Produzir handoff com estado, blockers, próxima ação, owner e `resume_from`.
 4. Resumir ao usuário decisão, construção, resultado e pendências.

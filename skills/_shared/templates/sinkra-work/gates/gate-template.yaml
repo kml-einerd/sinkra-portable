@@ -1,0 +1,13 @@
+gate:
+  entity:
+  from_stage:
+  to_stage:
+  required_tasks: []
+  acceptance_criteria: []
+  automatic_checks: []
+  human_decision:
+  blockers: []
+  warnings: []
+  decision_owner:
+  evidence: []
+  outcome:

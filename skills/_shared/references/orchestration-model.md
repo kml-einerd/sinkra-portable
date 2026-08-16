@@ -48,13 +48,18 @@ este checkpoint semântico em `sinkra-work/runs/`:
 run:
   id:
   entity:
+  transition:
   current_stage:
+  skill:
   completed_tasks: []
   skipped_tasks: []
   blockers: []
   decisions: []
   outputs: []
+  evidence: []
+  gate_outcome:
   next_task:
+  started_at:
   updated_at:
 ```
 

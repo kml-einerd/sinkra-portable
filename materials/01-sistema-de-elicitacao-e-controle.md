@@ -1,5 +1,8 @@
 # Sistema de elicitação e controle de Pedro Valério
 
+> **Status: histórico.** Preserva a primeira reconstrução e não governa a
+> execução. Para regras atuais, usar `skills/` e `materials/README.md`.
+
 > Reconstrução v0.1 baseada na fala de Pedro no vídeo.
 > Fonte primária: [transcrição completa](sources/pedro-transcricao-completa.md).
 > Vídeo: [YouTube](https://www.youtube.com/watch?v=ZGm8hpTviPI).

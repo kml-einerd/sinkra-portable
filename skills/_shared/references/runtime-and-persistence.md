@@ -8,13 +8,17 @@ Executar sempre em modo portátil, sem runtime próprio.
 2. Na ausência dela, copiar `skills/_shared/templates/sinkra-work/` para a raiz
    do projeto atendido.
 3. Usar `sinkra-work/state.yaml` como índice do trabalho atual.
-4. Persistir decisões, evidências, runs, registry, Journey Log e handoffs nas
-   pastas correspondentes.
+4. Persistir decisões, evidências, gates, outputs, runs, registry, Journey Log e
+   handoffs nas pastas correspondentes.
 5. Usar os templates compartilhados como contratos legíveis.
 
 Registrar autoridade e resultado do gate sem alegar enforcement mecânico
 inexistente. Não simular locks, budgets, validações ou automações que o host não
 executou de verdade.
+
+Usar os contratos de `_shared/templates/` como fonte canônica. As cópias dentro
+do template `sinkra-work/` existem para inicializar um projeto e devem permanecer
+semanticamente idênticas; `scripts/validate_portable.py` verifica esse espelho.
 
 ## Precedência
 

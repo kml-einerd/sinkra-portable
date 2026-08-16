@@ -6,6 +6,8 @@ handoff:
   excluded_sources: []
   produced_outputs: []
   decisions: []
+  gates: []
+  evidence: []
   blockers: []
   revalidate: []
   next_action:

@@ -1,0 +1,28 @@
+schema: sinkra-portable-package@1
+name: sinkra-portable
+version: 0.2.0
+release_date: 2026-08-16
+runtime: none
+python:
+  required_for_core_method: false
+  required_for_registry_operations: true
+  minimum: "3.11"
+canonical:
+  activation: AGENTS.md
+  method: skills/
+  contracts: skills/_shared/
+  material_precedence: materials/README.md
+  state_template: skills/_shared/templates/sinkra-work/
+skills:
+  - sinkra-arquitetar-sistema
+  - sinkra-auditar-sistema
+  - sinkra-elicitar-construcao
+  - sinkra-extrair-nos
+  - sinkra-forjar-skill
+  - sinkra-mapear-processo
+  - sinkra-modelar-executores
+validation: python scripts/validate_portable.py
+source_snapshot:
+  corpus: synkra-brain
+  audited_at: 2026-08-16
+  policy: fontes brutas entram somente quando necessárias para execução ou auditoria

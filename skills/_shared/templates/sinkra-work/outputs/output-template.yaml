@@ -1,0 +1,12 @@
+output:
+  id:
+  task_id:
+  entity:
+  type:
+  path:
+  status:
+  producer:
+  version:
+  evidence: []
+  next_consumer:
+  created_at:

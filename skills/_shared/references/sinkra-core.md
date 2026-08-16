@@ -34,6 +34,18 @@ relações e seu contexto podem atravessar níveis.
 Ao usar Herança ou Spawn, declarar origem, momento, campos, idempotência,
 precedência, rollback e Journey Log.
 
+## Nós e recomposição
+
+Quando houver reuso entre fluxos, separar:
+
+- **definição:** núcleo versionável e reutilizável;
+- **composição:** ordem, papel, condição e parâmetros do binding;
+- **runtime:** ocorrência histórica, nunca promovível como definição;
+- **evidência:** prova imutável e localizável.
+
+Chunk é fronteira de leitura, não fronteira semântica. Extrair nós somente de
+um AS-IS rastreável e promover somente após decisão humana explícita.
+
 ## Princípios
 
 - partir da entidade e da transição, não do Agente;

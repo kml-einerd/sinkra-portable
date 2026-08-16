@@ -1,6 +1,8 @@
 # Especificação v1 do pack Sínkra
 
-> Status: arquitetura proposta para implementação.
+> **Status: substituída.** Esta proposta registra a evolução do pack, mas nomes,
+> cardinalidade de opções, referências e estrutura não governam a versão atual.
+> Usar `skills/`, `skills/_shared/` e `materials/README.md`.
 > Base: [elicitação e controle](01-sistema-de-elicitacao-e-controle.md) e [avaliação cruzada das aulas](02-avaliacao-e-arquitetura-do-pack.md).
 
 ## Objetivo

@@ -8,6 +8,9 @@ crie sinkra-work/state.yaml no projeto atendido. Escolha a skill adequada ao
 pedido e leia integralmente seu SKILL.md, carregando somente as tasks,
 checklists e referências indicadas.
 
+Trate skills/ e skills/_shared/ como fonte operacional. Consulte
+materials/README.md antes de usar materiais históricos ou de evidência.
+
 Se esta plataforma não suportar skills nativamente, execute os arquivos como
 instruções. Não dependa da memória do chat: registre estado, decisões,
 evidências, outputs, gates e handoff em sinkra-work/.
